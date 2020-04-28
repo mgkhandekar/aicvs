@@ -1,6 +1,5 @@
-### Django ###
-*.log
-*.pot
-*.pyc
-__pycache__/
-local_settings.py
+# Text backup files
+*.bak
+
+# Database
+*.sqlite3
